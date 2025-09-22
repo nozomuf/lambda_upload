@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer-lambda-sample",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^20.0.0"
+  }
+}
